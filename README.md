@@ -8,7 +8,7 @@
 | 2   | Mindless | https://www.dwitter.net/d/15874 |
 | 3 | Bait | https://www.dwitter.net/d/15909 |
 | 4 | Freeze | https://www.dwitter.net/d/15924 |
-| 5 | Build | |
+| 5 | Build | https://www.dwitter.net/d/15935 |
 | 6 | Husky | |
 | 7 | Enchanted | |
 | 8 | Frail | |
