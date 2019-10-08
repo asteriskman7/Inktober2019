@@ -11,7 +11,7 @@
 | 5 | Build | https://www.dwitter.net/d/15935 |
 | 6 | Husky | https://www.dwitter.net/d/15949 |
 | 7 | Enchanted | https://www.dwitter.net/d/15956 |
-| 8 | Frail | |
+| 8 | Frail | https://www.dwitter.net/d/15965 |
 | 9 | Swing | |
 | 10 | Pattern | |
 | 11 | Snow | |
