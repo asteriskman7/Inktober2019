@@ -12,7 +12,7 @@
 | 6 | Husky | https://www.dwitter.net/d/15949 |
 | 7 | Enchanted | https://www.dwitter.net/d/15956 |
 | 8 | Frail | https://www.dwitter.net/d/15965 |
-| 9 | Swing | |
+| 9 | Swing | https://www.dwitter.net/d/15984 |
 | 10 | Pattern | |
 | 11 | Snow | |
 | 12 | Dragon | | 
