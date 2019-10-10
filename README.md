@@ -13,7 +13,7 @@
 | 7 | Enchanted | https://www.dwitter.net/d/15956 |
 | 8 | Frail | https://www.dwitter.net/d/15965 |
 | 9 | Swing | https://www.dwitter.net/d/15984 |
-| 10 | Pattern | |
+| 10 | Pattern | https://www.dwitter.net/d/15998 |
 | 11 | Snow | |
 | 12 | Dragon | | 
 | 13 | Ash | |
