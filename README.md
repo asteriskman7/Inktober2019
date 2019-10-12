@@ -15,7 +15,7 @@
 | 9 | Swing | https://www.dwitter.net/d/15984 |
 | 10 | Pattern | https://www.dwitter.net/d/15998 |
 | 11 | Snow | https://www.dwitter.net/d/16021 |
-| 12 | Dragon | | 
+| 12 | Dragon | https://www.dwitter.net/d/16039 | 
 | 13 | Ash | |
 | 14 | Overgrown | |
 | 15 | Legend | |
