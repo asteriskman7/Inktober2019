@@ -18,7 +18,7 @@
 | 12 | Dragon | https://www.dwitter.net/d/16039 | 
 | 13 | Ash | https://www.dwitter.net/d/16062 |
 | 14 | Overgrown | https://www.dwitter.net/d/16097 |
-| 15 | Legend | |
+| 15 | Legend | https://www.dwitter.net/d/16123 |
 | 16 | Wild | |
 | 17 | Ornament | |
 | 18 | Misfit | |
