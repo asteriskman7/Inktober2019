@@ -19,7 +19,7 @@
 | 13 | Ash | https://www.dwitter.net/d/16062 |
 | 14 | Overgrown | https://www.dwitter.net/d/16097 |
 | 15 | Legend | https://www.dwitter.net/d/16123 |
-| 16 | Wild | |
+| 16 | Wild | https://www.dwitter.net/d/16133 |
 | 17 | Ornament | |
 | 18 | Misfit | |
 | 19 | Sling | |
