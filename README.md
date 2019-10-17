@@ -20,7 +20,7 @@
 | 14 | Overgrown | https://www.dwitter.net/d/16097 |
 | 15 | Legend | https://www.dwitter.net/d/16123 |
 | 16 | Wild | https://www.dwitter.net/d/16133 |
-| 17 | Ornament | |
+| 17 | Ornament | https://www.dwitter.net/d/16153 |
 | 18 | Misfit | |
 | 19 | Sling | |
 | 20 | Tread | |
