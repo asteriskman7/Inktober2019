@@ -21,7 +21,7 @@
 | 15 | Legend | https://www.dwitter.net/d/16123 |
 | 16 | Wild | https://www.dwitter.net/d/16133 |
 | 17 | Ornament | https://www.dwitter.net/d/16153 |
-| 18 | Misfit | |
+| 18 | Misfit | https://www.dwitter.net/d/16159 |
 | 19 | Sling | |
 | 20 | Tread | |
 | 21 | Treasure | |
