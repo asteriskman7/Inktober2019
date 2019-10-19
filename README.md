@@ -22,7 +22,7 @@
 | 16 | Wild | https://www.dwitter.net/d/16133 |
 | 17 | Ornament | https://www.dwitter.net/d/16153 |
 | 18 | Misfit | https://www.dwitter.net/d/16159 |
-| 19 | Sling | |
+| 19 | Sling | https://www.dwitter.net/d/16177 |
 | 20 | Tread | |
 | 21 | Treasure | |
 | 22 | Ghost | |
