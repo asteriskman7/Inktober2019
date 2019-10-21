@@ -24,7 +24,7 @@
 | 18 | Misfit | https://www.dwitter.net/d/16159 |
 | 19 | Sling | https://www.dwitter.net/d/16177 |
 | 20 | Tread | https://www.dwitter.net/d/16197 |
-| 21 | Treasure | |
+| 21 | Treasure | https://www.dwitter.net/d/16210 |
 | 22 | Ghost | |
 | 23 | Ancient | |
 | 24 | Dizzy | | 
