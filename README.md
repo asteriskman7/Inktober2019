@@ -25,7 +25,7 @@
 | 19 | Sling | https://www.dwitter.net/d/16177 |
 | 20 | Tread | https://www.dwitter.net/d/16197 |
 | 21 | Treasure | https://www.dwitter.net/d/16210 |
-| 22 | Ghost | |
+| 22 | Ghost | https://www.dwitter.net/d/16242 |
 | 23 | Ancient | |
 | 24 | Dizzy | | 
 | 25 | Tasty | |
