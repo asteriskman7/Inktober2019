@@ -27,7 +27,7 @@
 | 21 | Treasure | https://www.dwitter.net/d/16210 |
 | 22 | Ghost | https://www.dwitter.net/d/16242 |
 | 23 | Ancient | https://www.dwitter.net/d/16254 |
-| 24 | Dizzy | | 
+| 24 | Dizzy | https://www.dwitter.net/d/16284 | 
 | 25 | Tasty | |
 | 26 | Dark | |
 | 27 | Coat | |
