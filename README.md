@@ -28,7 +28,7 @@
 | 22 | Ghost | https://www.dwitter.net/d/16242 |
 | 23 | Ancient | https://www.dwitter.net/d/16254 |
 | 24 | Dizzy | https://www.dwitter.net/d/16284 | 
-| 25 | Tasty | |
+| 25 | Tasty | https://www.dwitter.net/d/16301 |
 | 26 | Dark | |
 | 27 | Coat | |
 | 28 | Ride | |
