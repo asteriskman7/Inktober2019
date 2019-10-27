@@ -29,8 +29,8 @@
 | 23 | Ancient | https://www.dwitter.net/d/16254 |
 | 24 | Dizzy | https://www.dwitter.net/d/16284 | 
 | 25 | Tasty | https://www.dwitter.net/d/16301 |
-| 26 | Dark | |
-| 27 | Coat | |
+| 26 | Dark | https://www.dwitter.net/d/16314 |
+| 27 | Coat | https://www.dwitter.net/d/16340 |
 | 28 | Ride | |
 | 29 | Injured | |
 | 30 | Catch | |
