@@ -31,7 +31,7 @@
 | 25 | Tasty | https://www.dwitter.net/d/16301 |
 | 26 | Dark | https://www.dwitter.net/d/16314 |
 | 27 | Coat | https://www.dwitter.net/d/16340 |
-| 28 | Ride | |
+| 28 | Ride | https://www.dwitter.net/d/16348 |
 | 29 | Injured | |
 | 30 | Catch | |
 | 31 | Ripe | |
