@@ -32,6 +32,6 @@
 | 26 | Dark | https://www.dwitter.net/d/16314 |
 | 27 | Coat | https://www.dwitter.net/d/16340 |
 | 28 | Ride | https://www.dwitter.net/d/16348 |
-| 29 | Injured | |
+| 29 | Injured | https://www.dwitter.net/d/16364 |
 | 30 | Catch | |
 | 31 | Ripe | |
