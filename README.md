@@ -34,4 +34,4 @@
 | 28 | Ride | https://www.dwitter.net/d/16348 |
 | 29 | Injured | https://www.dwitter.net/d/16364 |
 | 30 | Catch | https://www.dwitter.net/d/16381 |
-| 31 | Ripe | |
+| 31 | Ripe | https://www.dwitter.net/d/16385 |
